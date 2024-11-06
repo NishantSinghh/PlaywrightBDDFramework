@@ -1,0 +1,20 @@
+{
+  "name": "PlayWrightAutomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "BDDTest": "npx cucumber-js --retry 2 --exit --format html:cucumber-report.html"
+  },
+  "keywords": [],
+  "author": "Nishant Singh",
+  "license": "ISC",
+  "devDependencies": {
+    "@cucumber/cucumber": "*",
+    "@playwright/test": "^1.40",
+    "allure-playwright": "^2.0.0-beta.15"
+  },
+  "dependencies": {
+    "exceljs": "^4.4.0"
+  }
+}

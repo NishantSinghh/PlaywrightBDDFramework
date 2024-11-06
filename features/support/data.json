@@ -1,0 +1,17 @@
+{
+    "valid_user":{
+        "firstname": "test",
+        "lastname": "demo",
+        "email": "test.demo1@test.com",
+        "password": "Test123!",
+        "confirm_password": "Test123!"
+    },
+    "locked_user":{
+        "firstname": "test",
+        "lastname": "demo2",
+        "email": "test.demo3@test.com",
+        "password": "Test12!",
+        "confirm_password": "Test12!"
+    }
+
+}
