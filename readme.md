@@ -14,4 +14,6 @@ npm install
 npm run BDDTest
 ```
 
+5. Test cases are under `cases` folder
+
 
